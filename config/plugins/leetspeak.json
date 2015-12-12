@@ -1,0 +1,10 @@
+{
+    "leetspeak": {
+        "enabled": true,
+        "customchars": {
+            "": ""
+        },
+        "ignorecase": true,
+        "level": 4
+    }
+}

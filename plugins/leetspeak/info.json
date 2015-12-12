@@ -1,0 +1,16 @@
+{
+    "gsm.plugins.leetspeak": {
+        "compatibility": {
+            "dependencies": {"gsm.daemon": "1.1.0"},
+            "games": {"bf3": "1", "bf4": "1", "bfhl": "1", "cod2": "1", "cod4": "1", "cod5": "1", "cod6": "1"}
+        },
+        "information": {
+            "author": "Mirko911",
+            "date": "01.12.2015",
+            "description": "Offers the ability to replace characters from server messages with own characters (leetspeek for example)",
+            "name": "Leetspeak",
+            "version": "1.0.0",
+            "website": "www.gsmanager.de"
+        }
+    }
+}
